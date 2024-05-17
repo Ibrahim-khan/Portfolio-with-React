@@ -102,7 +102,7 @@ export default function BodySecondPart() {
                 <div>
                     <div className='contactLeft'>
                         <div>
-                            <img src="./public/ibrahimkhan.jpg" width={'25%'} height={'25%'} alt="" srcset="" />
+                            <img src="./ibrahimkhan.jpg" width={'25%'} height={'25%'} alt="Ibrahim Khan" />
                         </div>
                         <div style={{color:'lightgray'}}>
                             <h2 style={{color:'green'}}>Md Ibrahim Khan</h2>

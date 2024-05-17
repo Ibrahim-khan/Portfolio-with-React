@@ -29,7 +29,7 @@ function Body(){
 
         {/*My picture start*/}
         <div className="myPicture">
-            <img src="./public/ibrahim.jpg" height={'300px'} width={'300px'} alt="Ibrahim Khan Picture"/>
+            <img src="./ibrahim.jpg" height={'300px'} width={'300px'} alt="Ibrahim Khan Picture"/>
         </div>
         {/*My picture end*/}
 
