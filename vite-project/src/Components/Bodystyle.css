@@ -1,0 +1,94 @@
+.bodyStyle{
+    float: left;
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.welcomeMessage{
+    color: lightgray;
+}
+.spanMessage{
+    color: white;
+}
+.Titlemessage{
+    color: lightgreen;
+}
+.myselfParagraph{
+    color: white;
+    width: 50%;
+}
+
+    /*my picture start*/
+    .myPicture{
+        float:right;
+        margin-top: -320px;
+        width: 50%;
+        margin-right: -150px;
+    }
+    /*my picture end*/
+
+                /*Button start*/
+                .myselfButton1{
+                    color: lightblue;
+                }
+                .myselfButton2{
+                    margin-left: 20px;
+                    color: lightblue;
+                }
+
+                .myselfButton1:hover{
+                    background: lightgray;
+                    color: green;
+                }
+                .myselfButton2:hover{
+                    background: lightgray;
+                    color: green;
+                }
+                /*Button end*/
+
+                        /*About me paragraph start*/
+
+                            .aboutMeParagraph{
+                                    color:lightgray;
+                                    width:50%;
+                                    text-align:justify;
+                                    float: left;
+                                    margin-top: -30px;
+                            }
+                        /*About me paragraph end*/
+
+
+                                    /*Skills start*/
+
+                                    .skillTitle{
+                                        color: green;
+                                        float: right;
+                                        margin-top: -130px;
+                                        margin-right: 50px;
+                                    }
+                                    .skills{
+                                        width: 50%;
+                                        float: right;
+                                    }
+                                    .skillUl{
+                                        color: lightgray;
+                                        text-align: left;
+                                        
+                                    }
+                                    
+                                    .skillUl ul li{
+                                        list-style-type: none;
+                                        margin-top: 20px;
+                                        font-size: 1.3rem;
+                                        color:white;
+                                    }
+                                    .skillUl ul li a{
+                                        font-size: 1rem;
+                                        color: lightblue;
+                                    }
+
+                                    /*Skills end*/
+
+                            /*What I Do start*/
+                            
+                            /*What I Do end*/

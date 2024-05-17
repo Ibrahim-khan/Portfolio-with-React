@@ -1,0 +1,25 @@
+
+
+.header{
+    margin-top: -40px;
+    }
+    
+
+    .headerUl{
+        color: white;
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .headerUl li{
+        margin: 10px;
+        padding: 10px;
+        background: transparent;
+        color: white;
+    }
+    .headerUl li:hover{
+        background-color: lightblue;
+        cursor: pointer;
+        color: black
+    }

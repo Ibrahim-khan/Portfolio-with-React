@@ -1,0 +1,49 @@
+.whatIDo{
+    background: #182234;
+    margin: 20px;
+}
+.whatIDoArticle{
+    display: flex;
+}
+.paragraph{
+    width: 33%;
+}
+.paragraph h2 {
+    color: lightgray;
+}
+.paragraph p{
+    color: rgb(170, 168, 168);
+    text-align: center;
+}
+
+.lineVertical{
+    width: 1px;
+    height: auto;
+    background-color: rgb(78, 78, 78);
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.experience{
+    display: flex;
+    width: 100%;
+}
+.experience h2{
+    color: white;
+}
+.experience h3{
+    color: lightgray;
+}
+.experience p{
+    color: gray;
+}
+.experienceFirst{
+    width: 50%;
+    float: left;
+}
+.experienceSecond{
+    width: 50%;
+    float: right;
+}
+
