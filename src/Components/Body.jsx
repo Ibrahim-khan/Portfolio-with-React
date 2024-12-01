@@ -82,8 +82,8 @@ function Body(){
                     <ul>
                         <li>Frontend Design: <a>HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, Photoshope</a></li>
                         <li>Frontend Development: <a>JavaScript, TypeScript, React, Redux, Next Js</a></li>
-                        <li>Backend (Basic): <a>Node JS</a></li>
-                        <li>Database (Basic): <a>PostgreSQL, MySQL</a></li>
+                        <li>Backend: <a>Node JS</a></li>
+                        <li>Database: <a>MongoDB</a></li>
                         <li>Code Management: <a>Git, Github</a></li>
                         <li>Programming Language (Basic): <a>C, C++, Java</a></li>
                         <li>Deployment: <a>Windows Server</a></li>

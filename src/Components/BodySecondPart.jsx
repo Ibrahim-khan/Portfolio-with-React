@@ -107,7 +107,7 @@ export default function BodySecondPart() {
                         <div style={{color:'lightgray'}}>
                             <h2 style={{color:'green'}}>Md Ibrahim Khan</h2>
                             <p>
-                                Font end Developer
+                                Web Developer
                             </p>
                             <p>
                                 I am available for freelance work. Connect with me via and call in to my account.
